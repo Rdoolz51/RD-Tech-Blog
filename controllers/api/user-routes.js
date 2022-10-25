@@ -34,3 +34,6 @@ const { User, Comment, Post } = require("../../models");
 
 
 //delete single user by id
+
+
+module.exports = router;
